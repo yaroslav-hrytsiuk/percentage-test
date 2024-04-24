@@ -1,0 +1,16 @@
+{
+  "cashIn": {
+    "percentage": 0.03,
+    "maxLimit": 5
+  },
+  "cashOut": {
+    "natural": {
+      "percentage": 0.3,
+      "weekLimit": 1000
+    },
+    "juridical": {
+      "percentage": 0.3,
+      "minAmount": 0.5
+    }
+  }
+}

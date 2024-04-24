@@ -1,0 +1,7 @@
+[
+  { "date": "2024-04-05", "user_id": 1, "user_type": "natural", "type": "cash_in", "operation": { "amount": 2000.00, "currency": "EUR" } },
+  { "date": "2024-04-06", "user_id": 2, "user_type": "juridical", "type": "cash_out", "operation": { "amount": 30000.00, "currency": "EUR" } },
+  { "date": "2024-04-07", "user_id": 1, "user_type": "natural", "type": "cash_out", "operation": { "amount": 100000.00, "currency": "EUR" } },
+  { "date": "2024-04-10", "user_id": 3, "user_type": "natural", "type": "cash_out", "operation": { "amount": 100.00, "currency": "EUR" } },
+  { "date": "2024-05-10", "user_id": 1, "user_type": "natural", "type": "cash_out", "operation": { "amount": 30000.00, "currency": "EUR" } }
+]
